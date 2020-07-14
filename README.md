@@ -11,5 +11,3 @@
 1. [Angular Scaffolding](https://www.abhijit-kar.com/angular-scaffolding) - (Made in Angular using Typescript)
 1. [Monster Shuffle](https://abhijit-kar.itch.io/monster-shuffle) - (Made in Unity using C#)
 1. [AdobeFlash Editor](https://drive.google.com/drive/folders/0B3Cbrg4maoDvSEtZVDhtVm1ZZnc?usp=sharing) - (Made in Flash using ActionScript 3)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijit-kar)
