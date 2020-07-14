@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png"/></a>
-  <h5>I'm keeping busy with Quillerbee</h5>
+  <p align="center">I'm keeping busy with Quillerbee</p>
 </p>
 
 <details>
