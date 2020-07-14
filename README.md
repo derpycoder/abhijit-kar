@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png"/></a>
+  <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png" alt="Quiller Bee"/></a>
+  <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png" alt="Quiller Bee"/></a>
   <p align="center">I'm keeping busy with Quillerbee</p>
 </p>
 
