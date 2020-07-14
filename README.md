@@ -8,11 +8,11 @@
   <a href="https://stackoverflow.abhijit-kar.com">Stackoverflow</a>
 </p>
 
-- I'm keeping busy with [QuillerBee](https://www.quillerbee.com) made with 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte
-- Learning 🚀 Dgraph, 🔥 Firebase & several others.
+> I'm keeping busy with [QuillerBee](https://www.quillerbee.com) made with 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte  
+> Learning 🚀 Dgraph, 🔥 Firebase & several others.
 
 <details>
-  <summary>Deprecated Projects</summary>
+  <summary>Past Projects</summary>
   <ul>
     <li><a href="https://www.abhijit-kar.com/dont-let-him-poo/">Don't Let Him Poo</a></li>
     <li><a href="https://www.abhijit-kar.com/bull-sheep/">Bull Sheep</a></li>
