@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
   <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png" alt="Quiller Bee"/></a>
-  <p align="center">I'm keeping busy with QuillerBee!</p>
+  <h6 align="center">I'm keeping busy with QuillerBee!</h6>
 </p>
 
 <p align="center">
