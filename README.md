@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi there! I'm Abhijit ツ</h1>
----
 <p align="center">
   <a href="https://abhijit-kar.com">Portfolio</a> •
   <a href="https://twitter.com/QuillerBee">Twitter</a> •
