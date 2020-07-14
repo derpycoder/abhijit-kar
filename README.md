@@ -8,7 +8,8 @@
   <a href="https://stackoverflow.abhijit-kar.com">Stackoverflow</a>
 </p>
 
-<h3 align="center">I am a Software Engineer at Copart & I'm keeping busy with [QuillerBee](https://www.quillerbee.com) in my spare time.</h1>
+- I'm keeping busy with [QuillerBee](https://www.quillerbee.com) made with 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte
+- Learning 🚀 Dgraph, 🔥 Firebase & several others.
 
 <p align="center">
   <a href="https://www.abhijit-kar.com/dont-let-him-poo/">Don't Let Him Poo</a> •
