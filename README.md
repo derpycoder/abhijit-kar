@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <sub>
+  <strikethrough>
     <a href="https://www.abhijit-kar.com/dont-let-him-poo/">Don't Let Him Poo</a> •
     <a href="https://www.abhijit-kar.com/bull-sheep/">Bull Sheep</a> •
     <a href="https://www.abhijit-kar.com/angular-scaffolding">Angular Scaffolding</a> •
     <a href="https://abhijit-kar.itch.io/monster-shuffle">Monster Shuffle</a> •
     <a href="https://drive.google.com/drive/folders/0B3Cbrg4maoDvSEtZVDhtVm1ZZnc?usp=sharing">Flash Editor</a>
-  </sub>
+  </strikethrough>
 </p>
