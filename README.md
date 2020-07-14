@@ -9,7 +9,8 @@
 </p>
 
 > I'm keeping busy with [QuillerBee](https://www.quillerbee.com) made with 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte  
-> Learning 🚀 Dgraph, 🔥 Firebase & several others.
+
+<img align="center" src="https://www.abhijit-kar.com/quillerbee.png"/>
 
 <details>
   <summary>Past Projects</summary>
