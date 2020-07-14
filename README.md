@@ -8,10 +8,9 @@
   <a href="https://stackoverflow.abhijit-kar.com">Stackoverflow</a>
 </p>
 
-> I'm keeping busy with [QuillerBee](https://www.quillerbee.com) made with 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte  
-
 <p align="center">
-  <img src="https://www.abhijit-kar.com/quillerbee.png"/>
+  <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png"/></a>
+  <h5>I'm keeping busy with Quillerbee</h5>
 </p>
 
 <details>
