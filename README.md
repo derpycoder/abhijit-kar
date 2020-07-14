@@ -10,7 +10,9 @@
 
 > I'm keeping busy with [QuillerBee](https://www.quillerbee.com) made with 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte  
 
-<img align="center" src="https://www.abhijit-kar.com/quillerbee.png"/>
+<p align="center">
+  <img src="https://www.abhijit-kar.com/quillerbee.png"/>
+</p>
 
 <details>
   <summary>Past Projects</summary>
