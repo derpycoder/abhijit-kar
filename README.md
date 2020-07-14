@@ -12,8 +12,8 @@
   <a href="https://storybook.quillerbee.com/"><img src="https://www.abhijit-kar.com/honey-laddle.png" alt="Honey Laddle"></a>
   <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png" alt="Quiller Bee"/></a>
   <p align="center">I'm keeping busy with <a href="https://www.quillerbee.com">QuillerBee</a>!</p>
-  ![Current Project](https://img.shields.io/badge/I'm%20keeping%20busy%20with-Quiller%20Bee-brightgreen?style=for-the-badge)
 </p>
+![Current Project](https://img.shields.io/badge/I'm%20keeping%20busy%20with-Quiller%20Bee-brightgreen?style=for-the-badge)
 
 <p align="center">
   <sub>
