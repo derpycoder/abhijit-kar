@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Abhijit ツ</h1>
 <p align="center">
   <a href="https://abhijit-kar.com">Portfolio</a> •
+  <a href="https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo">Resume</a> •
   <a href="https://twitter.com/QuillerBee">Twitter</a> •
   <a href="mailto:reachme@abhijit-kar.com">Email</a> •
   <a href="https://leetcode.com/abhijit-kar/">Leetcode</a> •
@@ -10,7 +11,7 @@
 <p align="center">
   <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
   <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png" alt="Quiller Bee"/></a>
-  <p align="center">I'm keeping busy with QuillerBee!</p>
+  <p align="center">I'm keeping busy with <a href="https://www.quillerbee.com">QuillerBee</a>!</p>
 </p>
 
 <p align="center">
