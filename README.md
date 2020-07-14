@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hey there! I'm Abhijit ツ</h1>
 <p align="center">
-  <a href="https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo">Resume</a> 🔗
-  <a href="https://twitter.com/QuillerBee">Twitter</a> 🔗
-  <a href="mailto:reachme@abhijit-kar.com">Email</a> 🔗
-  <a href="https://leetcode.com/abhijit-kar/">Leetcode</a> 🔗
+  <a href="https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo">Resume</a> •
+  <a href="https://twitter.com/QuillerBee">Twitter</a> •
+  <a href="mailto:reachme@abhijit-kar.com">Email</a> •
+  <a href="https://leetcode.com/abhijit-kar/">Leetcode</a> •
   <a href="https://stackoverflow.abhijit-kar.com">Stackoverflow</a>
 </p>
 
