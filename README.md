@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi there! I'm Abhijit ツ</h3>
+<h2 align="center">👋 Hi there! I'm Abhijit ツ</h2>
 <p align="center">
   <a href="https://abhijit-kar.com">Portfolio</a> •
   <a href="https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo">Resume</a> •
@@ -9,7 +9,9 @@
   <a href="https://stackoverflow.abhijit-kar.com">Stackoverflow</a>
 </p>
 
-I am a Software Engineer at Copart & 🐝 I'm keeping busy with [QuillerBee](https://www.quillerbee.com) in my spare time.
+---
+
+I am a Software Engineer at Copart & I'm keeping busy with [QuillerBee](https://www.quillerbee.com) in my spare time.
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
