@@ -10,8 +10,9 @@
   <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
 </p>
 
+Blog: [Derpy Coder](https://www.derpycoder.com)
+
 ## Projects:
-1. [Derpy Coder](https://www.derpycoder.com) - (Made using Ghost PRO)
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
 1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/) - (Made in PICO-8 using Lua)
 1. [Angular Scaffolding](https://www.abhijit-kar.com/angular-scaffolding) - (Made in Angular using Typescript)
