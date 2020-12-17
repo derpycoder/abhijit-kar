@@ -8,9 +8,8 @@
 
 <p align="center">
   <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
+  <a href="https://www.derpycoder.com">Derpy Coder</a>
 </p>
-
-Blog: [Derpy Coder](https://www.derpycoder.com)
 
 ## Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
