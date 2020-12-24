@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a><br>
+  <a href="https://www.derpycoder.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Derpy Coder"/></a><br>
   <a href="https://www.derpycoder.com">Derpy Coder</a>
 </p>
 
