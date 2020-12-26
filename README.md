@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hey there! I'm Abhijit ツ</h1>
 <p align="center">
-  <a href="https://www.derpycoder.com">Blog</a> •
+  <a href="https://www.derpycoder.com">Derpy Coder</a> •
   <a href="mailto:reachme@abhijit-kar.com">Email</a> •
-  <a href="https://leetcode.com/abhijit-kar/">Leetcode</a> •
-  <a href="https://stackoverflow.abhijit-kar.com">Stackoverflow</a>
+  <a href="https://leetcode.com/abhijit-kar/">LeetCode</a> •
+  <a href="https://stackoverflow.abhijit-kar.com">StackOverflow</a>
 </p>
 
 <p align="center">
