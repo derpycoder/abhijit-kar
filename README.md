@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hey there! I'm Abhijit ツ</h1>
 <p align="center">
-  <a href="https://www.derpycoder.com">Derpy Coder</a> •
+  <a href="https://www.derpycoder.com">DerpyCoder</a> •
   <a href="mailto:reachme@abhijit-kar.com">Email</a> •
   <a href="https://leetcode.com/abhijit-kar/">LeetCode</a> •
   <a href="https://stackoverflow.abhijit-kar.com">StackOverflow</a>
 </p>
 
 <p align="center">
-  <a href="https://www.derpycoder.com"><img src="https://www.derpycoder.com/assets/img/icon.png" alt="Derpy Coder"/></a><br>
-  <a href="https://www.derpycoder.com">Derpy Coder</a>
+  <a href="https://www.derpycoder.com"><img src="https://www.derpycoder.com/assets/img/icon.png" alt="DerpyCoder"/></a><br>
+  <a href="https://www.derpycoder.com">DerpyCoder</a>
 </p>
 
 ## Projects:
-1. [Derpy Coder](https://www.derpycoder.com) - (My Blog, Powered by Ghost)
+1. [DerpyCoder](https://www.derpycoder.com) - (My Blog, Powered by Ghost)
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
 1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/) - (Made in PICO-8 using Lua)
 1. [Angular Scaffolding](https://www.abhijit-kar.com/angular-scaffolding) - (Made in Angular using Typescript)
