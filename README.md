@@ -13,7 +13,7 @@
 
 ## Projects:
 1. [Abhijit Kar ツ](https://www.abhijit-kar.com/) - (My Porfolio, Powered by Hugo)
-1. [DerpyCoder](https://www.derpycoder.com) - (My Blog, Powered by Ghost)
+1. [DerpyCoder](https://www.derpycoder.com) - (My Blog, Published with Ghost Pro)
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
 1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/) - (Made in PICO-8 using Lua)
 1. [Angular Scaffolding](https://www.abhijit-kar.com/angular-scaffolding) - (Made in Angular using Typescript)
