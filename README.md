@@ -14,7 +14,7 @@
 
 ## Projects:
 1. [Abhijit Kar ツ](https://www.abhijit-kar.com/) - (My Porfolio, Powered by Hugo)
-1. [DerpyCoder](https://www.derpycoder.com) - (My Blog, Published with [Ghost Pro](https://www.derpycoder.com/ghost-pro-20-reasons-that-make-it-the-best-choice-for-bloggers-in-2021/))
+1. [DerpyCoder](https://www.derpycoder.com) - ([My Blog, Published with Ghost Pro](https://www.derpycoder.com/ghost-pro-20-reasons-that-make-it-the-best-choice-for-bloggers-in-2021/))
 1. [Snowtail](https://www.abhijit-kar.com/snowtail/) - ([A Starter for Quick Prototyping UI, Made using Snowpack + Tailwind](https://www.derpycoder.com/snowtail-snowpack-tailwind-starter-to-speed-up-theme-dev/))
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - ([Angular 2 based game using A star algorithm](https://www.derpycoder.com/dont-let-him-poo-angular-2-based-game-using-a-star-algorithm/))
 1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/) - ([Made in PICO-8 using Lua](https://www.derpycoder.com/bull-sheep-casual-8-bit-game-using-fantasy-console-pico-8/))
