@@ -8,13 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.derpycoder.com"><img src="https://www.derpycoder.com/assets/img/icon.png" alt="DerpyCoder"/></a><br>
-  <a href="https://www.derpycoder.com">DerpyCoder</a>
+  <a href="https://www.derpycoder.com"><img src="https://www.derpycoder.com/assets/img/icon.png" alt="Derpy Coder"/></a>
+  <a href="https://www.quillerbee.com"><img src="https://www.quillerbee.com/android-chrome-192x192.png" alt="Quiller Bee"/></a><br>
+  <a href="https://www.derpycoder.com">Derpy Coder</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.quillerbee.com">Quiller Bee</a>
 </p>
 
 ## Projects:
-1. [Abhijit Kar ツ](https://www.abhijit-kar.com/) - (My Porfolio, Powered by Hugo)
+1. [Quiller Bee](https://www.quillerbee.com/) - (One stop destination for hand curated, high quality, jobs from world's most valuable companies!)
 1. [DerpyCoder](https://www.derpycoder.com) - ([My Blog, Published with Ghost Pro](https://www.derpycoder.com/ghost-pro-20-reasons-that-make-it-the-best-choice-for-bloggers-in-2021/))
+1. [Abhijit Kar ツ](https://www.abhijit-kar.com/) - (My Porfolio, Powered by Hugo)
 1. [Derpy UTM Builder](https://www.abhijit-kar.com/derpy-utm-builder/) - [Derpy UTM Builder: A Campaign URL Builder made with Svelte, Tailwind & Snowpack](https://www.derpycoder.com/derpy-utm-builder-a-campaign-url-builder-made-with-svelte-tailwind-snowpack/)
 1. [Snowtail](https://www.abhijit-kar.com/snowtail/) - ([A Starter for Quick Prototyping UI, Made using Snowpack + Tailwind](https://www.derpycoder.com/snowtail-snowpack-tailwind-starter-to-speed-up-theme-dev/))
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - ([Angular 2 based game using A star algorithm](https://www.derpycoder.com/dont-let-him-poo-angular-2-based-game-using-a-star-algorithm/))
