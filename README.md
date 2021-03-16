@@ -16,7 +16,7 @@
 </p>
 
 ## Projects:
-1. [Quiller Bee](https://www.quillerbee.com/) - (One stop destination for hand curated, high quality, jobs from world's most valuable companies!)
+1. [Quiller Bee](https://www.quillerbee.com/) - ([Job Portal Made using Svelte, Dgraph, etc](https://github.com/quillerbee/job-portal))
 1. [DerpyCoder](https://www.derpycoder.com) - ([My Blog, Published with Ghost Pro](https://www.derpycoder.com/ghost-pro-20-reasons-that-make-it-the-best-choice-for-bloggers-in-2021/))
 1. [Abhijit Kar ツ](https://www.abhijit-kar.com/) - (My Porfolio, Powered by Hugo)
 1. [Derpy UTM Builder](https://www.abhijit-kar.com/derpy-utm-builder/) - [Derpy UTM Builder: A Campaign URL Builder made with Svelte, Tailwind & Snowpack](https://www.derpycoder.com/derpy-utm-builder-a-campaign-url-builder-made-with-svelte-tailwind-snowpack/)
