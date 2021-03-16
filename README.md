@@ -11,7 +11,7 @@
   <a href="https://www.derpycoder.com"><img src="https://www.derpycoder.com/assets/img/icon.png" alt="Derpy Coder"/></a>
   <a href="https://www.quillerbee.com"><img src="https://www.quillerbee.com/android-chrome-192x192.png" alt="Quiller Bee"/></a><br>
   <a href="https://www.derpycoder.com">Derpy Coder</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.quillerbee.com">Quiller Bee</a>
 </p>
 
