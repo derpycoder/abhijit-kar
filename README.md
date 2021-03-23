@@ -34,4 +34,4 @@
 1. [Adobe Flash Editor](https://drive.google.com/drive/folders/0B3Cbrg4maoDvSEtZVDhtVm1ZZnc?usp=sharing) - (Made in Flash using ActionScript 3)
 
 [![Quiller Bee](https://github-readme-stats.vercel.app/api/pin/?username=quillerbee&repo=job-portal&show_owner=true&theme=radical)](https://github.com/quillerbee/job-portal)
-[![Honeycomb](https://github-readme-stats.vercel.app/api/pin/?username=quillerbee&repo=honeycomb&show_owner=true&theme=radical)](https://github.com/quillerbee/honeycomb)
+[![Honeycomb](https://github-readme-stats.vercel.app/api/pin/?username=quillerbee&repo=honeycomb&theme=radical)](https://github.com/quillerbee/honeycomb)
