@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/abhijit-kar">
     <img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=abhijit-kar&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Abhijit%20Kar%27s%20GitHub%20Stats&hide=prs,issues" />
   </a>
 </p>
