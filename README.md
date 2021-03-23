@@ -15,6 +15,12 @@
   <a href="https://www.quillerbee.com">Quiller Bee</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=abhijit-kar&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Abhijit%20Kar%27s%20GitHub%20Stats&hide=prs,issues" />
+  </a>
+</p>
+
 ## Projects:
 1. [Quiller Bee](https://www.quillerbee.com/) - ([Job Portal Made using Svelte, Dgraph, etc](https://github.com/quillerbee/job-portal))
 1. [DerpyCoder](https://www.derpycoder.com) - ([My Blog, Published with Ghost Pro](https://www.derpycoder.com/ghost-pro-20-reasons-that-make-it-the-best-choice-for-bloggers-in-2021/))
