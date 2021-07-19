@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://www.quillerbee.com"><img src="https://www.quillerbee.com/android-chrome-192x192.png" alt="Quiller Bee"/></a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.quillerbee.com">Quiller Bee</a>
 </p>
 
